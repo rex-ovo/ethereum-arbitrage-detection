@@ -140,3 +140,11 @@ trace.txt
 # large dataset
 data/
 backup/
+
+
+#output
+output/*.docx
+output/*.zip
+output/~$*.docx
+output/*.md
+output/thesis_figures_*
